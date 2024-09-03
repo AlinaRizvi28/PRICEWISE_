@@ -33,13 +33,15 @@ Developed using Next.js and Bright Data's webunlocker, this e-commerce product s
 
 
  ## 1
- ![image](https://github.com/user-attachments/assets/444f8a64-c5fd-4e50-9110-1321ffb22dee)
+ ![image](https://github.com/user-attachments/assets/8fe9c989-06ef-41d7-8731-3cd2ba4a04d1)
+
 
  ## 2
-![image](https://github.com/user-attachments/assets/02aa3b20-aadf-4c6f-9429-4aa3a0fe167a)
+![image](https://github.com/user-attachments/assets/17f2aed9-9d01-4d72-8c18-60d38dcba607)
+
 
 ## 3
-![image](https://github.com/user-attachments/assets/3bd5bb0e-0560-4973-a6cf-fcb8d3898a99)
+![image](https://github.com/user-attachments/assets/0ea9346b-cab4-4346-bb01-c70c577cc0a0)
 
 
 
